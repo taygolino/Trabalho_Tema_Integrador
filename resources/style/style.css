@@ -108,6 +108,7 @@
 
   table {
     width: 20rem;
+    margin: 0 auto;
     border-collapse: collapse;
   }
   
@@ -135,7 +136,8 @@
 
   .container-tabela{
     width: 60%;
-    margin: 0 auto;
+    margin: 0 auto;   
+    overflow-x: auto;
     border-collapse: collapse;
   }
 
